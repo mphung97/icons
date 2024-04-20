@@ -7,7 +7,7 @@
     "src:download": "node ./download.mjs",
     "src:icons": "cross-env UV_THREADPOOL_SIZE=64 node ./builder.mjs --output-dir src --svg-dir svg/tabler --glob '**/*.svg'"
   },
-  "author": "",
+  "author": "mphung97",
   "license": "ISC",
   "devDependencies": {
     "@iconify/tools": "^4.0.4",
